@@ -1,6 +1,7 @@
 main: me.tacos.Villagers.Main
 name: Villagers
 version: 1.0
+author: tacos
 commands:
     villager:
     delvillager:
